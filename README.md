@@ -1,0 +1,1 @@
+This repository contains the source code for the control system of a helicopter developed by Caleb Westbury and Sam Hewitt
